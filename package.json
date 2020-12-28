@@ -17,7 +17,7 @@
     "botpress": "10.25.2",
     "jsdoc-api": "^4.0.3",
     "lodash": "^4.17.10",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "yn": "^2.0.0"
   },
   "scripts": {
